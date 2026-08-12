@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2ty-PPOI9Jx8jDVx18oE-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Step by step Project:&lt;/b&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Mempelajari dan memahami struktur data, tipe data, dan atribut yang akan digunakan sesuai dengan requirement.&lt;/li&gt;&lt;li&gt;Ambil atribut dari dataset yang akan digunakan untuk membuat dashboard. Gunakan SQL agar komputer tidak crash ketika melakukan render data yang sangat besar.&lt;/li&gt;&lt;li&gt;Melakukan pembersihan data dari missing value, double data, inkonsistensi data, dsb. Gunakan python agar proses lebih efisien.&lt;/li&gt;&lt;li&gt;Pastikan data sudah benar-benar bersih dan siap digunakan.&lt;/li&gt;&lt;li&gt;Membuat prototype dashboard menggunakan draw.Io&lt;/li&gt;&lt;li&gt;Membuat dashboard menggunakan google data studio agar data terintegrasi ketika dilakukan perubahan pada dataset.&lt;/li&gt;&lt;li&gt;Mengamati dan melakukan analisa mendalam.&lt;/li&gt;&lt;li&gt;Membuat rekomendasi keputusan bisnis&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="430" x="20" y="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
